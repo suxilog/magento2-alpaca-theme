@@ -3,7 +3,9 @@
   "description": "Alpaca frontend theme for Magento 2",
   "license": "MIT",
   "type": "magento2-theme",
-  
+  "require": {
+    "yireo/magento2-webp2": "^^0.14.0"
+  },
   "autoload": {
     "files": [
       "registration.php"
