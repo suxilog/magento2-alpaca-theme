@@ -3,7 +3,7 @@
   "description": "Alpaca frontend theme for Magento 2",
   "license": "MIT",
   "type": "magento2-theme",
-  "
+  
   "autoload": {
     "files": [
       "registration.php"
